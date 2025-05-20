@@ -1,5 +1,5 @@
 import express from 'express';
-import swiggyHandler from './api/swiggy.js';
+import swiggyHandler from './api/index.js';
 
 const app = express();
 
