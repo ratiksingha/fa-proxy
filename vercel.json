@@ -1,6 +1,9 @@
 {
   "version": 2,
   "builds": [
-    { "src": "api/swiggy.js", "use": "@vercel/node" }
+    {
+      "src": "api/swiggy.js",
+      "use": "@vercel/node"
+    }
   ]
 }
