@@ -1,0 +1,12 @@
+{
+  "name": "fa-proxy",
+  "version": "1.0.0",
+  "main": "api/swiggy.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "type": "module"
+}
